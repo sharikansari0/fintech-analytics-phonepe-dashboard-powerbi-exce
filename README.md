@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  <img src="C:\Users\shari\Desktop\fintech-analytics-phonepe-dashboard-powerbi-exce\images\home_page.png" width="800">
+  <img src="images/home_Page.png" width="800">
 </p>
+
 
 A full-scale fintech analytics dashboard built using real-world transaction patterns inspired by PhonePe.  
 This project analyzes one year of digital payments (Dec-2024 to Dec-2025), covering service performance, payment status, failure reasons, and monthly seasonal trends.
