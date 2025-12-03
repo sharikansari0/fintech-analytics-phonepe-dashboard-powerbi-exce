@@ -119,19 +119,19 @@ This project analyzes one year of digital payments (Dec-2024 to Dec-2025), cover
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="images/loans_Page.png" width="800">
+  <img src="images/loans_page.png" width="800">
 </p>
 
 <p align="center">
-  <img src="images/insurance_Page.png" width="800">
+  <img src="images/insurance_page.png" width="800">
 </p>
 
 <p align="center">
-  <img src="images/money_transfer_Page.png" width="800">
+  <img src="images/money_transfer_page.png" width="800">
 </p>
 
 <p align="center">
-  <img src="images/recharge_&_bill_Page.png" width="800">
+  <img src="images/recharge_&_bill.png" width="800">
 </p>
 
 ---
