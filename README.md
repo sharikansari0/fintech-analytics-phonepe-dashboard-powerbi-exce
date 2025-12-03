@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="images/home_Page.png" width="800">
+  <img src="C:\Users\shari\Desktop\fintech-analytics-phonepe-dashboard-powerbi-exce\images\home_page.png" width="800">
 </p>
 
 A full-scale fintech analytics dashboard built using real-world transaction patterns inspired by PhonePe.  
